@@ -1,18 +1,9 @@
 ---
 title: "Hello World!"
-excerpt: "test"
-
 writer: Hyogeun Park
-categories:
-  - Test
-tags:
-  - [Test]
-
-toc: true
-toc_sticky: true
-
-date: 2024-08-17
-last_modified_at: 2024-08-17
+date: 2024-08-17 04:08:43 +09:00
+categories: Test
+tags: [test]
 ---
 
 새로 시작하는 일에 `Hello World!`가 빠지면 섭섭하다.
