@@ -68,7 +68,7 @@ Netdata의 문제는 로그인 기능을 지원하지 않아 누구나 내 서�
 ```zsh
 sudo htpasswd -c USERFILE_PATH USERNAME
 ```
-암호를 만들어 설정하고 nginxg에 아래의 두 줄을 추가해준다
+암호를 만들어 설정하고 nginx에 아래의 두 줄을 추가해준다
 ```
     auth_basic "Authentication Required";
     auth_basic_user_file USERFILE_NAME;
