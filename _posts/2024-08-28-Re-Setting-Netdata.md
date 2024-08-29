@@ -2,8 +2,8 @@
 title: "Re-Setting Netdata in Home Server"
 writer: Hyogeun Park
 date: 2024-08-29 19:42:23 +09:00
-categories: [Home-server]
-tags: [home-server]
+categories: [Home-server, Netdata]
+tags: [netdata]
 description: 홈서버에 netdata 재설치
 ---
 
